@@ -39,8 +39,8 @@ Dataset yang digunakan merupakan integrasi dari dua sumber utama:
 | :--- | :---: | :--- |
 | **1. Business Understanding** | ✅ | Identifikasi masalah dan penentuan tujuan penelitian. |
 | **2. Data Understanding** | ✅ | Eksplorasi data (EDA) pada harga pangan dan cuaca. |
-| **3. Data Preparation** | 🟡 | Pembersihan data, sinkronisasi waktu, dan penanganan *missing values*. |
-| **4. Modeling** | ⏳ | Pemilihan algoritma dan pelatihan model prediksi. |
+| **3. Data Preparation** | ✅ | Pembersihan data, sinkronisasi waktu, dan penanganan *missing values*. |
+| **4. Modeling** | 🟡 | Pemilihan algoritma dan pelatihan model prediksi. |
 | **5. Evaluation** | ⏳ | Validasi model menggunakan metrik MAE, RMSE, dan MAPE. |
 | **6. Deployment** | ⏳ | Implementasi model ke dashboard interaktif (Streamlit). |
 
