@@ -31,7 +31,7 @@ Dataset yang digunakan merupakan integrasi dari dua sumber utama:
 - **Bahasa Pemrograman**: Python 3.x
 - **Analisis Data**: Pandas, NumPy
 - **Visualisasi**: Matplotlib, Seaborn
-- **Machine Learning**: Scikit-Learn, XGBoost (Planned)
+- **Machine Learning**: Scikit-Learn, XGBoost, LSTM (Planned)
 - **Deployment**: Streamlit (Planned)
 
 ## 📈 Metodologi Penelitian (CRISP-DM Progress)
