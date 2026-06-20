@@ -255,6 +255,3 @@ Gradio secara otomatis akan menghasilkan URL publik sementara (misal: `https://x
 ### Batasan:
 *   **Input Manual**: Pengguna harus memasukkan sendiri data cuaca Bandung dan harga historis. Pada deployment tingkat lanjut (*production*), data cuaca dan harga historis harian harus ditarik secara otomatis menggunakan API BMKG dan PIHPS.
 *   **Hosting Sementara**: Link `gradio.live` hanya aktif saat laptop atau komputer lokal yang menjalankan skrip dalam keadaan menyala dan terkoneksi internet. Untuk deployment permanen, disarankan menggunakan platform cloud gratis seperti **Hugging Face Spaces**.
-
----
-*Rencana deployment ini disusun oleh AI Team Member sebagai usulan tindak lanjut dari selesainya tahap pemodelan projek DM210.*
