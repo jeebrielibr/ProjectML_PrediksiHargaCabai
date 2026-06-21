@@ -63,7 +63,7 @@ Model terbaik yang dipilih adalah **Linear Regression** dengan performa:
 │   ├── Data Cleaning - Cuaca Bandung.ipynb
 │   ├── Data Cleaning - Harga Bahan Pokok.ipynb
 │   ├── Data Merge - Cuaca dan Harga.ipynb
-│   ├── DataCleaning-DatasetMerge.ipynb
+│   ├── DataPreparation-DatasetMerge.ipynb
 │   ├── EDA-DatasetMerge.ipynb
 │   ├── Features Engineering.ipynb
 │   ├── Modelling_dengan_Evaluasi_FINAL_revisi_output.ipynb
